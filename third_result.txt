@@ -1,0 +1,19 @@
+name,open_date,city,rank_in_city
+Baudit KVA OÜ,01.03.2024,"Tartu linn, Tartu linn, Tartu maakond",1
+Anneli Loodus,01.04.2010,"Tartu linn, Tartu linn, Tartu maakond",2
+Blehner OÜ,01.04.2013,"Tartu linn, Tartu linn, Tartu maakond",3
+Auland OÜ,01.04.2020,"Tartu linn, Tartu linn, Tartu maakond",4
+Barber Taali OÜ,01.04.2024,"Tartu linn, Tartu linn, Tartu maakond",5
+Borealis Eesti OÜ,01.02.2005,"Lasnamäe linnaosa, Tallinn, Harju maakond",1
+AS PANAVIATIC Maintenance,01.02.2010,"Lasnamäe linnaosa, Tallinn, Harju maakond",2
+ASKE OÜ,01.02.2016,"Lasnamäe linnaosa, Tallinn, Harju maakond",3
+Beluga4Health OÜ,01.02.2019,"Lasnamäe linnaosa, Tallinn, Harju maakond",4
+Arsa OÜ,01.02.2019,"Lasnamäe linnaosa, Tallinn, Harju maakond",4
+A&T Prisce OÜ,01.02.2006,"Kesklinna linnaosa, Tallinn, Harju maakond",1
+Asset Pro OÜ,01.02.2006,"Kesklinna linnaosa, Tallinn, Harju maakond",1
+Boruti OÜ,01.02.2010,"Kesklinna linnaosa, Tallinn, Harju maakond",3
+BCC RAAMATUPIDAMINE OÜ,01.02.2013,"Kesklinna linnaosa, Tallinn, Harju maakond",4
+Art Kaminad OÜ,01.02.2016,"Kesklinna linnaosa, Tallinn, Harju maakond",5
+A.R.C Trading OÜ,01.02.2016,"Kesklinna linnaosa, Tallinn, Harju maakond",5
+BV INVEST OÜ,01.02.2016,"Kesklinna linnaosa, Tallinn, Harju maakond",5
+Areta OÜ,01.02.2016,"Kesklinna linnaosa, Tallinn, Harju maakond",5
